@@ -169,13 +169,13 @@
           "totalWatchedEpisodesAnime": "Total episodes (anime) watched",
           "apiStatus": "Trakt API Status",
           "logout": "Logout",
-          "signIn": "Sign in or Sign up with Trakt",
+          "signIn": "Connect wako to your Trakt account",
           "markMovieAsWatchedAuto": "Mark movies as watched automatically",
           "markEpisodeAsWatchedAuto": "Mark episodes as watched automatically",
           "markAsWatchedAutoProgress": "Percentage to watch to mark the video as watched"
         },
         "simkl": {
-          "signIn": "Sign in or Sign up with SIMKL"
+          "signIn": "Connect wako to your SIMKL account"
         },
         "tracker": {
           "header": "Tracker",
@@ -362,7 +362,7 @@
       "button": "Let's install some"
     },
     "signIn": {
-      "explain": "You can browse information without a Trakt/SIMKL account, however you will need one to sync and update your watch history, watch list, etc. Using a Trakt/SIMKL account means that all your history is available on all your devices with Trakt/SIMKL access, including available on Trakt.tv/SIMKL.com on the web."
+      "explain": "You can browse information without connecting wako to your Trakt/SIMKL account, however you will need to connect wako to your Trakt/SIMKL account to sync and update your watch history, watch list, etc. Using your Trakt/SIMKL account means that all your history is available on all your devices with Trakt/SIMKL access, including available on Trakt.tv/SIMKL.com on the web."
     }
   },
   "pop-over": {
@@ -385,8 +385,8 @@
     "cancel": "Cancel",
     "sign-in": {
       "or": "or",
-      "trakt-button": "Sign in or Sign up with Trakt",
-      "simkl-button": "Sign in or Sign up with SIMKL"
+      "trakt-button": "Connect wako to your Trakt account",
+      "simkl-button": "Connect wako to your SIMKL account"
     },
     "misc": {
       "aired": "Aired",

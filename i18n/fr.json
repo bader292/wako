@@ -169,13 +169,13 @@
           "totalWatchedEpisodesAnime": "Nombre d'épisodes (anime) regardés",
           "apiStatus": "Statut de l'API Trakt",
           "logout": "Déconnexion",
-          "signIn": "Connectez-vous ou Inscrivez-vous à Trakt",
+          "signIn": "Connectez wako à votre compte Trakt",
           "markMovieAsWatchedAuto": "Marquer les films comme vu automatiquement",
           "markEpisodeAsWatchedAuto": "Marquer les épisodes comme vu automatiquement",
           "markAsWatchedAutoProgress": "Pourcentage à voir pour marquer la vidéo comme vu"
         },
         "simkl": {
-          "signIn": "Connectez-vous ou Inscrivez-vous à Simkl"
+          "signIn": "Connectez wako à votre compte  SIMKL"
         },
         "tracker": {
           "header": "Traquer",
