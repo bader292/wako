@@ -339,12 +339,14 @@
       "title": "Choisissez une liste",
       "search": "Search a list",
       "sort": {
-        "label": "Trier les médias par",
+        "label": "Trier par",
         "options": {
           "default": "Default",
           "rank": "Rang",
           "recentlyAdded": "Récemment ajouté",
-          "releasedDate": "Date de sortie"
+          "releasedDate": "Date de sortie",
+          "recentlyWatched": "Regardé récemment",
+          "recentlyAired": "Récemment diffusé"
         }
       },
       "myLists": "Mes Listes",

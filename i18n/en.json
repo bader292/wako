@@ -347,7 +347,9 @@
           "default": "Default",
           "rank": "Rank",
           "recentlyAdded": "Recently Added",
-          "releasedDate": "Release Date"
+          "releasedDate": "Release Date",
+          "recentlyWatched": "Recently Watched",
+          "recentlyAired": "Recently Aired"
         }
       },
       "myLists": "My Lists",
