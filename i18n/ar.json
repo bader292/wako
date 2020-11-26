@@ -1,0 +1,548 @@
+{
+  "pages": {
+    "intro": {
+      "title": "المقدمة",
+      "skip": "تخطى",
+      "slide1": {
+        "title": "مرحبا بكم في واكو",
+        "watchDemo": "شاهد العرض التوضيحي"
+      },
+      "slide2": {
+        "text1": "تتبع كل برنامج تلفزيوني وفيلم تشاهده",
+        "text2": "كن على علم عن الحلقات الجديدة",
+        "text3.1": "تحكم في مشغل الوسائط المفضل لديك",
+        "text3.2": "مع جهاز التحكم عن بعد المدمج",
+        "text4": "والعديد من الميزات الأخرى"
+      },
+      "slide3": {
+        "title": "ما هو Trakt.tv؟",
+        "text": "هي عبارة عن نظام أساسي يقوم بالعديد من الأشياء ، ولكنه يتتبع بشكل أساسي البرامج التلفزيونية والأفلام التي تشاهدها. يتكامل مع مراكز الوسائط (مثل كودي) لتمكين التنقية ، لذلك كل شيء تلقائي. اكتشف برامج وأفلامًا جديدة ، تابع الأشخاص ذوي الأذواق المتشابهة وعبّر عن رأيك باستخدام موقع Trakt.tv"
+      },
+      "slide4": {
+        "title": "ما هو كودي؟",
+        "text1.1": "كودي هو مشغل وسائط مجاني ومفتوح المصدر لتشغيل مقاطع الفيديو والموسيقى والصور والألعاب والمزيد. يعمل كودي على لينيكس و ماك وويندوز واي او اس واندرويد.",
+        "text1.2": "تعرف على المزيد وقم بالتثبيت من موقع كودي الإلكتروني"
+      },
+      "slide5": {
+        "text": "كن على علم بالحلقات القادمة لمشاهدتها"
+      },
+      "slide-addon": {
+        "text2": "انتقل إلى الإعدادات > الإضافات لإدارة الإضافة"
+      },
+      "slide7": {
+        "text": "جهاز التحكم عن بعد"
+      },
+      "slide8": {
+        "title": "مستعد؟",
+        "button": "استمر"
+      }
+    },
+    "home": {
+      "hi": "مرحبا",
+      "upNextToWatch": "مالتالي الذي ستشاهده",
+      "retry": "أعد المحاولة",
+      "upToDate": "لا شيء جديد لمشاهدته :)",
+      "nothingToResume": "لاشئ لأستكمال مشاهدته :)",
+      "segment": {
+        "upNext": "التالي",
+        "resume": "استئنف",
+        "calendar": "التقويم"
+      }
+    },
+    "login": {
+      "message": "قم بتسجيل الدخول او التسجيل في trakt لعرض افلامك وبرامج التلفزيونية"
+    },
+    "media": {
+      "shared": {
+        "detail": {
+          "imdbRating": "تقييم موقع IMDb:",
+          "viewOnIMDb": "عرض في IMDb",
+          "overview": "نظرة عامة",
+          "cast": "الممثلين",
+          "fullCast": "جميع الممثلين وطاقم العمل",
+          "network": "الشبكة",
+          "related": "المزيد مثل هذا",
+          "release": "تاريخ الأصدار",
+          "runtime": "مدة المشاهدة",
+          "status": "الحالة",
+          "certification": "التصنيف",
+          "originalTitle": "العنوان الأصلي",
+          "originalLanguage": "اللغة الأصلية",
+          "type": "النوع",
+          "episodes": "الحالقات",
+          "alternativeTitle": "عنوان بديل",
+          "rating": "التقييم",
+          "genres": "الفئات"
+        },
+        "search-list": {
+          "explore": "إستكشف",
+          "list": "قائمة",
+          "toWatch": "شاهد",
+          "watched": "تم مشاهدته",
+          "by": "بواسطة",
+          "mostDailyPlayed": "الأكثر مشاهده يوميا",
+          "trending": "شائع",
+          "popular": "الأكثر شهرة",
+          "collection": "مجموعة",
+          "recommendations": "التوصيات",
+          "watch-list": "قائمة المشاهده",
+          "history": "السجل",
+          "progress": "المتابعة",
+          "completed": "المكتمل",
+          "on-hold": "المعلق"
+        },
+        "pop-over": {
+          "explore": "اكتشف",
+          "hideWatched": "اخف ما تم مشاهدته",
+          "pickList": "اختر قائمة",
+          "filters": "تصفية"
+        }
+      }
+    },
+    "movie": {
+      "search-list": {
+        "search": "بحث عن فيلم"
+      },
+      "filter": {
+        "title": "تصفية",
+        "rating": "التقييم",
+        "genre": "الفئة",
+        "certification": "التصنيف",
+        "year": "السنة",
+        "apply": "تطبيق",
+        "reset": "إعادة"
+      },
+      "not-on-tracking-platform": "هذا الفيلم غير موجود على منصة التتبع الخاصة بك"
+    },
+    "show": {
+      "search-list": {
+        "search": "بحث عن برنامج تلفزيوني",
+        "search-anime": "بحث عن انمي",
+        "myTvShows": "برامجي التلفزيونية",
+        "myAnime": "انمي"
+      },
+      "show-detail": {
+        "seasons": "مواسم"
+      },
+      "episode-detail": {
+        "viewShow": "عرض البرنامج التلفزيوني"
+      }
+    },
+    "settings": {
+      "title": "إعدادات",
+      "list": {
+        "contribution": {
+          "header": "المساهمات",
+          "item": "ساهم"
+        },
+        "kodi": {
+          "item": "أعداد المضيفين"
+        },
+        "addons": {
+          "header": "الإضافات",
+          "item": "إعداد أو تثبيت الإضافات"
+        },
+        "movies": {
+          "header": "افلام",
+          "which-provider": "اختر مزودك في البحث",
+          "default": "الإفتراضي"
+        },
+        "filer": {
+          "header": "متصفح الملفات",
+          "item": "تهيئة",
+          "hideTab": "إخفاء قائمة متصفح الملفات"
+        },
+        "notification": {
+          "header": "الإشعارات",
+          "notificationNotGranted": "إشعارات واكو معطلة حاليا. إذا كنت ترغب في تلقي الإشعارات ، يرجى تمكينها من الإعدادات",
+          "itemEnableTvShows": "تفعيل إشعارات البرامج التلفزيونية",
+          "itemOnlyNewEpisodeOnUpToDateShows": "يتم إخطاري بالحلقات الجديدة التي يتم بثها فقط إذا تم مشاهدة كل مافاتك"
+        },
+        "music-controls": {
+          "header": "إشعارات التحكم بالموسيقى",
+          "enabled": "تمكين",
+          "swipeToClose": "السحب للأغلاق"
+        },
+        "trakt": {
+          "totalWatchedMovies": "إجمالي الأفلام التي تمت مشاهدتها",
+          "totalWatchedEpisodes": "إجمالي الحلقات التي تمت مشاهدتها",
+          "totalWatchedEpisodesAnime": "مجموع الحلقات (انمي) التي تمت مشاهدتها",
+          "apiStatus": "Trakt API حالة",
+          "logout": "تسجيل الخروج",
+          "signIn": "قم بتوصيل واكو بحساب Trakt الخاص بك",
+          "markMovieAsWatchedAuto": "وضع علامة تم المشاهده على الأفلام اليا",
+          "markEpisodeAsWatchedAuto": "وضع علامة تم المشاهده على البرامج التلفزيونية اليا",
+          "markAsWatchedAutoProgress": "النسبة المئوية للمشاهدة لتمييز الفيديو على أنه تمت مشاهدته"
+        },
+        "simkl": {
+          "signIn": "قم بتوصيل واكو بحساب SIMKL الخاص بك"
+        },
+        "tracker": {
+          "header": "متتبع",
+          "movie": "متتبع الأفلام",
+          "show": "متتبع البرامج التلفزيونية",
+          "not-recommended-warning": "يرجى ملاحظة أن استخدام Trakt + SIMKL في نفس الفئة غير مستحسن وقد يتسبب في حدوث أخطاء."
+        },
+        "application": {
+          "header": "تطبيق",
+          "darkMode": "الوضع الليلي",
+          "lang": "اللغة",
+          "review": "تقييم التطبيق",
+          "share": "مشاركة التطبيق",
+          "documentation": "دليل الأستخدام",
+          "joinDiscord": "انضم لدينا عبر منصة ديسكورد",
+          "joinTelegram": "انضم لدينا عبر التيليجرام",
+          "support": "الدعم",
+          "clearCache": "مسح ذاكرة التخزين المؤقت",
+          "privacyPolicy": "سياسة الخصوصصية",
+          "termsConditions": "البنود و الشروط",
+          "appVersion": "نسخة التطبيق"
+        },
+        "backup": {
+          "header": "النسخ الاحتياطي",
+          "enable-restore-settings": "تمكين النسخ الأحتياطي للاعدادات",
+          "restore-settings": "استعادة الاعدادات من نسخة احتياطية",
+          "delete": "حذف النسخة الأحتياطية من الانترنت"
+        }
+      }
+    },
+    "kodi-detection": {
+      "title": "الكشف عن كودي",
+      "skip": "تخطي",
+      "cardContent": "يتم الآن البحث عن مضيفي كودي على شبكتك.<br />حدد واحدًا من القائمة لإضافته أو اضغط على \"SKIP\" زر لإضافته يدويًا.",
+      "detectedHosts": "المضيفين الذي تم اكتشافهم",
+      "detectHostHelper": "لم يتم العثور على المضيف حتى الآن (قد يستغرق بضع ثوان). لا تنسى تشغيل كودي<br><em>الكشف الالي يتم عبر Zeroconf. اذا لم يتم التعرف على كودي, حاول تفعيل Zeroconf في كودي عبر <b>اعدادات > الخدمات > عام وفعل \"Announce services to other systems\"</b></em>",
+      "troubleShooting": "اذا كانت لديك مشاكل بالاتصال مع كودي, الرجاء قرائة التعليمات  <b>هنا</b>"
+    },
+    "kodi-remote-list": {
+      "title": "مضيفي كودي",
+      "savedHosts": "المضيفين المحفوظة",
+      "noHostsAdded": "لم يتم اضافة مضيف الى الان",
+      "defaultHost": "المضيف الافتراضي",
+      "addHost": "اضف",
+      "linkVolumeHardwareTitle": "الصوت",
+      "linkVolumeHardware": "اربط زر مستوى صوت الجهاز بمستوى صوت كودي عند التشغيل"
+    },
+    "kodi-settings": {
+      "title": "اعداد مضيف كودي",
+      "form": {
+        "name": "الاسم",
+        "ip": "اسم المضيف/الايبي",
+        "port": "منفذ المضيف",
+        "advanced": "الاعدادات المتقدمة",
+        "login": "تسجيل الدخول (اختياري)",
+        "password": "كلمة المرور (اختياري)",
+        "rpcPort": "منفذ JSON RPC (اختياري)",
+        "status": "حالة الإتصال:",
+        "save": "حفظ المضيف",
+        "delete": "حذف المضيف"
+      }
+    },
+    "addons": {
+      "title": "الاضافات",
+      "need-contribute": "انتهت الفترة التجريبية الخاصة بك ، يرجى المساهمة  لاستخدام هذه الميزة",
+      "list-installed": {
+        "header": "لاضافات المثبته"
+      },
+      "list-available": {
+        "header": "الاضافات المتوفرة"
+      },
+      "list-unknown-sources": {
+        "header": "اعدادات",
+        "item": "مصادر غير معروفة",
+        "third-party": "اضف اضافة طرف ثالث",
+        "alert": "ستحصل اضافات الطرف الثالث الوصول إلى بياناتك المخزنة على كودي. بالسماح بذلك ، فإنك توافق على أنك المسؤول الوحيد عن أي فقد للبيانات وأي سلوك غير مرغوب فيه لتطبيقك. يرجى العلم أن إضافات الطرف الثالث لم يتم تطويرها أو اعتمادها من قبل كودي وأنه لا يمكن تحميل كودي المسؤولية عما تفعله هذه الاضافات."
+      }
+    },
+    "addon": {
+      "title": "اضافة {{addonName}}",
+      "detail": "وصف الاضافة",
+      "settings": "اعدادات الاضافة",
+      "changeLogs": "سجل التغيرات",
+      "install": "تثبيت",
+      "uninstall": "الغاء التثبيت",
+      "thirdParty": "لم يتم إنشاء هذه الاضافة بواسطة كودي. سيخضع استخدام اضافات الطرف الثالث دائمًا لمسؤوليتك والقانون الحاكم للولاية القضائية التي توجد بها. لا يمكن تحميل واكو المسؤولية",
+      "uninstall-confirm": {
+        "header": "الغاء تثبيت هذه الاضافة",
+        "message": "هل انت متاكد؟"
+      },
+      "install-confirm": {
+        "header": "تثبيت هذه الاضافة",
+        "message": "هل انت متاكد؟"
+      }
+    },
+    "addon-settings": {
+      "title": "اعدادات الاضافة"
+    },
+    "addon-detail": {
+      "title": "تفاصيل الاضافة"
+    },
+    "movie-discover": {
+      "title": "اكتشف الأفلام",
+      "select-filters": "جميع الفلاتر اختيارية",
+      "searching": "البحث الحالي ، قد يستغرق بعض الوقت",
+      "continue": "استمر",
+      "next-movie": "التالي",
+      "no-movie": "لا مزيد من الأفلام لاكتشافها",
+      "restart": "إعادة بدء",
+      "min-rating": "التقييم الادنى",
+      "released-year": "سنة الانتاج"
+    },
+    "filer": {
+      "title": "متصفح الملفات",
+      "noCompatibleAddon": "ليس لديك أي اضافة متوافقة مثبتة حتى الآن"
+    },
+    "filer-settings": {
+      "title": "اعداد متصفح الملفات",
+      "video-type": {
+        "header": "ترميز الملفات",
+        "preferTranscoded": "ترميز الملفات المفضل",
+        "preferTranscodedFilesChromecast": "ترميز الملفات المفضل للكروم كاست فقط ",
+        "explainTranscoded": "تقوم بعض الخدمات بإنشاء ملفات تم تحويل ترميزها لمقاطع الفيديو الخاصة بك بتنسيق متوافق مع كل مشغل تقريبًا بما في ذلك كروم كاست الذي يدعم تنسيقات فيديو قليلة فقط. من الأفضل تمكينه لـ كروم كاست. اعلم أن الملفات التي تم تحويل ترميزها قد لا تتضمن ترجمات / مسارات صوتية أخرى يمكن أن تتضمنها الملفات الأصلية"
+      },
+      "actions": {
+        "header": "ترتيب / تمكين فتح الإجراءات"
+      }
+    }
+  },
+  "modals": {
+    "app-contribution": {
+      "title": "إسهام",
+      "premium-user": "تهانينا ، أنت مستخدم بريميوم.",
+      "explain1": "إذا كنت تستمتع حقا بواكو, يمكنك أن تصبح مستخدمًا متميزًا عن طريق اختيار أحد المنتجات أدناه. سيؤدي هذا إلى إزالة الإعلانات.<br>ستتأثر جميع الأجهزة التي تم تسجيل دخولها لنفس المستخدم",
+      "explainUsername": "يتم إنشاء معرف واكو الخاص بك بناءً على معرف Trakt أو SIMKL الخاص بك. مساهمتك مرتبطة بمعرف واكو الخاص بك.  إذا كنت تريد التبديل من Trakt إلى SIMKL أو العكس ، تذكر أن تظل على اتصال بالخدمة (Trakt أو SIMKL) التي كنت متصلاً بها عندما قدمت مساهمتك لتظل مستخدم.",
+      "explainTierText1": "\"Tier\" خطة مساهمة مدى الحياة",
+      "explainTierText2": "توجد خطط متعددة, كلها نفس المميزات, الفرق هو السعر, نترك لك الخيار في اختيار ما يستحقه واكو",
+      "trialExpired": "انتهت فترتك التجريبية. للاستمرار في استخدام التطبيق, الرجاء اختيار احد الخطط بالاسفل",
+      "iosTextSubscriptionMonthlyByProduct": " {{ productPrice }}/في الشهر سوف تخصم من حسابك في الايتونز عند التفعيل",
+      "iosTextSubscriptionYearlyByProduct": " {{ productPrice }}/في السنة سوف تخصم من حسابك في الايتونز عند التفعيل.",
+      "iosTextSubscriptionGeneral": "سيتم تجديد الاشتراكات تلقائيًا ما لم يتم إلغاؤها قبل 24 ساعة على الأقل من نهاية الفترة الحالية. يمكنك الإلغاء في أي وقت باستخدام إعدادات حساب ايتونز الخاص بك. سيتم مصادرة أي جزء غير مستخدم من الإصدار التجريبي المجاني إذا قمت بشراء اشتراك. لمزيد من المعلومات ، راجع الشروط والأحكام وسياسة الخصوصية الخاصة بنا.",
+      "subscriptionHeader": "اشتراكات قابلة للتجديد التلقائي",
+      "consumableHeader": "مساهمة مدى الحياة",
+      "otherSubscriptionHeader": "مساهمات اخرى",
+      "manualSubscription": "مساهمة يدوية",
+      "ads12hRemoval": "تخلص من الإعلانات بملء الشاشة لمدة 12 ساعة قادمة من خلال مشاهدة إعلانين ",
+      "ads6hRemoval": "تخلص من الإعلانات بملء الشاشة لمدة 6 ساعات قادمة من خلال مشاهدة إعلان واحد",
+      "lifetime": "مساهمة مدى الحياة",
+      "username-header": "معرف مستخدم واكو الخاص بك",
+      "restore-button": "استعادة المشتريات"
+    },
+    "app-outdated": {
+      "text": "تطبيقك غير محدث ، يجب عليك تحديثه للمتابعة"
+    },
+    "kodi-remote-control": {
+      "title": "التحكم عن بعد بـكودي",
+      "host": "مضيف",
+      "noHost.message": "تطبيقك قديم ، يجب عليك تحديثه للمتابعة",
+      "noHost.add": "اضافة",
+      "hostUnreachable": "المضيف {{hostName}} لايمكن الوصول له",
+      "tryReconnect": "محاولة الاتصال"
+    },
+    "list-picker": {
+      "title": "اختر قائمة",
+      "search": "ابحث في القائمة",
+      "sort": {
+        "label": "فرز حسب",
+        "options": {
+          "default": "الافتراضي",
+          "rank": "التقييم",
+          "recentlyAdded": "اضيف مؤخرا",
+          "releasedDate": "تاريخ الانتاج",
+          "recentlyWatched": "شوهد مؤخرا",
+          "recentlyAired": "تم بثه مؤخرا"
+        }
+      },
+      "myLists": "قوائمي",
+      "myLikedLists": "قوائم اعجبتني",
+      "trendingLists": "قوائم شائعة",
+      "popularLists": "قوائم ذات شعبية",
+      "likes": "الاعجابات",
+      "by": "بواسطة"
+    },
+    "install-addons": {
+      "title": "لايوجد لديك اي اضافات مثبته",
+      "button": "لنقم بتثبيت بعض الاضافات"
+    },
+    "signIn": {
+      "explain": "يمكنك تصفح المعلومات دون ربط واكو  Trakt/SIMKL بحساب, however you will need to connect wako to your Trakt/SIMKL account to sync and update your watch history, watch list, etc. Using your Trakt/SIMKL account means that all your history is available on all your devices with Trakt/SIMKL access, including available on Trakt.tv/SIMKL.com on the web."
+    }
+  },
+  "pop-over": {
+    "kodi-subtitles": {
+      "header": "الترجمات",
+      "enable": "تمكين الترجمات",
+      "select": "الترجمة",
+      "download": "تنزيل",
+      "offset": "تعديل التوقيت",
+      "close": "اغلاق"
+    },
+    "kodi-audio": {
+      "header": "بث الصوت",
+      "select": "الصوت"
+    }
+  },
+  "shared": {
+    "noResult": "لا توجد نتيجة",
+    "filtersApplied": "تم تطبيق الفلاتر",
+    "cancel": "الغاء",
+    "sign-in": {
+      "or": "or",
+      "trakt-button": "ربط واكو الى Trakt حسابك في",
+      "simkl-button": "ربط واكو SIMKL الى حساب"
+    },
+    "misc": {
+      "aired": "تم بثها",
+      "airs": "تبث"
+    },
+    "pasteMediaTitle": "لصق عنوان الفيديو",
+    "install-addons": {
+      "text1": "هل تعلم أنه يمكنك تثبيت اضافات داخل واكو",
+      "text2": "عن طريق تثبيت الاضافات ، ستضيف مميزات جديدة إلى واكو تناسب احتياجاتك"
+    },
+    "contribution": {
+      "remove-ads": "المساهمة في واكو لازالة الاعلانات",
+      "trial-expires-soon": "تنتخي نسختك التجريبية في {{days}} يوم, لا يمكنك استخدام هذة الميزة لاحقا",
+      "need-contribute-button": "المساهمة في واكو"
+    },
+    "calendar-pipe": {
+      "yesterday": "في الامس",
+      "today": "اليوم",
+      "tomorrow": "غدا",
+      "days-ago": "{{days}} ايام مضت",
+      "in-days": "في {{days}} ايام"
+    },
+    "onlyPremium": "هذه الميزة متاحة فقط لمستخدمي المميزين"
+  },
+  "toasts": {
+    "movie": {
+      "markAsWatched": "تم التعليم {{movieTitle}} كمشاهد في {{trackers}}",
+      "markAsUnwatched": "تم التعليم {{movieTitle}} كغير مشاهد في {{trackers}}",
+      "addedToWatchlist": "تم اضافة {{movieTitle}} الى قائمة المشاهدة {{trackers}}",
+      "removedFromWatchlist": "تم حذف {{movieTitle}} من قائمة المشاهدة في {{trackers}}",
+      "addedToCollection": "تم اضافة {{movieTitle}} الى مجموعتك في {{trackers}}",
+      "removedFromCollection": "تم حذف {{movieTitle}} من مجموعتك في {{trackers}}",
+      "addedToUserList": "تم اضافة {{movieTitle}} الى قائمتك في {{trackers}}",
+      "removedFromUserList": "نم حذف {{movieTitle}} من قائمتك في {{trackers}}",
+      "noRandomMovieFound": "لم يتم العثور على الفيلم في الفئات: {{genreList}}",
+      "notFoundOnTrakt": "الفيلم غير متوفر قي trakt"
+    },
+    "show": {
+      "addedToWatchlist": "اضف {{showTitle}} الى قائمة المشاهدة في {{trackers}}",
+      "removedFromWatchlist": "حذف {{showTitle}} من قائمة المشاهدة في {{trackers}}",
+      "addedToCollection": "اضف {{showTitle}} الى مجموعتك في {{trackers}}",
+      "removedFromCollection": "حذف {{showTitle}} من مجموعتك في {{trackers}}",
+      "addedToUserList": "اضافة {{showTitle}} الى قائمتك في {{trackers}}",
+      "removedFromUserList": "حذف {{showTitle}} من قائمتك في {{trackers}}",
+      "notFoundOnTrakt": "البرنامج التلفزيوني غير متوفر في trakt"
+    },
+    "season": {
+      "markAsWatched": "تعليم {{showTitle}} الموسم {{seasonNumber}} كمشاهد في {{trackers}}",
+      "markAsUnwatched": "تعليم {{showTitle}} الموسم {{seasonNumber}} كغير مشاهد في {{trackers}}"
+    },
+    "episode": {
+      "markAsWatched": "تعليم {{showTitle}} {{episodeCode}} كمشاهد في {{trackers}}",
+      "markAsUnwatched": "تعليم {{showTitle}} {{episodeCode}} كغير مشاهد في {{trackers}}"
+    },
+    "kodi-remote-control": {
+      "warningWebsocket": "تحذير - انت لست متصل بكودي من خلال websocket service. تحتاج إلى تنشيط هذا الخيار في كودي:\nAllow remote control from applications on others systems\n\nGo to https://wako.app/kodi-remote-control لمزيد من المعلومات"
+    },
+    "app": {
+      "traktApiIssue1": "Trakt API - فشل تحميل المورد ، يرجى المحاولة مرة أخرى في وقت لاحق (error code {{errorStatus}})",
+      "traktApiServerOverloaded": "Trakt API - الخادم مثقل. يرجى المحاولة مرة أخرى بعد 30 ثانية",
+      "traktNotConnectedAnyMore": "Trakt API - أنت غير متصل بـ Trakt بعد الآن ، يرجى إعادة الاتصال",
+      "simklNotConnectedAnyMore": "Simkl API - أنت غير متصل بـ SIMKL بعد الآن ، يرجى إعادة الاتصال",
+      "simklApiServerOverloaded": "Simkl API - الخادم مثقل. يرجى المحاولة مرة أخرى بعد 30 ثانية",
+      "newVersionAvailable": "يتوفر إصدار جديد من واكو في المتجر",
+      "updateInstalled": "تم تحديث واكو. أعد تشغيل التطبيق للاستمتاع بالتحديث",
+      "noConnection": "الرجاء التحقق من اتصال الانترنت الخاص بك"
+    },
+    "settings": {
+      "cacheCleared": "تم مسح ذاكرة التخزين المؤقت"
+    },
+    "addons": {
+      "updated": "تم تحديث هذة الاضافات:<br>{{updatedAddons}}<br><br>يجب اعادة تشغيل واكو",
+      "updatedWithRestart": "تم تحديث هذة الاضافات<br>{{updatedAddons}}<br><br>سيتم اعادة تششغيل واكو",
+      "upToDate": "ام تحديث الاضافات"
+    },
+    "kodi": {
+      "hostUnreachable": "مضيف كودي {{hostName}} لا يمكن الوصول إليه ، يرجى التحقق من اتصالك",
+      "noHost": "لم يتم تعيين مضيف لـ كودي"
+    },
+    "ads": {
+      "block": "أوه ، يبدو أنك حصلت على مانع اعلانات. بعض أجزاء واكو متاحة فقط للمستخدمين المميزين (واكو> الإعدادات> المساهمة) أو من خلال مشاهدة إعلان"
+    },
+    "trailer": {
+      "noTrailer": "لم يتم العثور على دعاية"
+    },
+    "premium-only": "هذه الميزة مخصصة فقط للمستخدمين المميزين",
+    "no-settings-saved": "لسوء الحظ ، ليس لديك أي إعدادات محفوظة على الإنترنت حتى الآن.",
+    "contribution-added": "شكرا لمساهمتك. انت الان مستخدم مميز. سوف يتم اعادة تشغيل واكو",
+    "backup-deleted": "تم حذف نسختك الأحتياطية",
+    "exit-app": "اضغط رجوع مرة اخرى للخروج",
+    "playlist-add": "تمت إضافته إلى قائمة التشغيل الخاصة بك"
+  },
+  "alerts": {
+    "okButton": "موافق",
+    "cancelButton": "الغاء",
+    "app-contribution": {
+      "thanksMessage": "شكرا لمساهمتك في واكو."
+    },
+    "movie": {
+      "random": {
+        "header": "الحصول على فيلم عشوائي من الفئات:"
+      }
+    },
+    "addons": {
+      "customManifestUrl": "رابط اضافة الطرف الثالث",
+      "enterManifestUrl": "اضف الرابط"
+    },
+    "show": {
+      "remove": "حذف هذا البرنامج التلفزيوني؟",
+      "hidden-add": "إخفاء هذا البرنامج التلفزيوني؟",
+      "hidden-remove": "استعادة هذا البرنامج التلفزيوني؟"
+    },
+    "kodi": {
+      "openUrl": "فتح الرابط"
+    },
+    "restore-settings": {
+      "restore-header": "استعادة الإعدادات",
+      "restore-date": "هل تريد استعادة الإعدادات المحفوظة في {{date}}?"
+    },
+    "delete-backup": {
+      "header": "حذف النسخة الاحتياطية",
+      "restore-date": "هل تريد حذف النسخة الاحتياطية المحفوظة على {{date}}?"
+    },
+    "clear-resume": {
+      "message": "حذف جميع العناصر؟"
+    }
+  },
+  "notifications": {
+    "shows": {
+      "newEpisode": "حلقة جديدة: {{showTitle}} {{episodeCode}}"
+    }
+  },
+  "actionSheets": {
+    "addToWatchList": "إزالة من قائمة العرض الخاصة بك",
+    "removeFromWatchList": "إزالة من قائمة العرض الخاصة بك",
+    "addToCollection": "اضف الى مجموعتك",
+    "removeFromCollection": "ازالة من مجموعتك",
+    "addToList": "اضف الى {{listName}}",
+    "removeFromList": "ازالة من {{listName}}",
+    "file-action": {
+      "openTitle": "فتح بأستخدام",
+      "actions": {
+        "play-kodi": "كودي",
+        "play-browser": "تصفح",
+        "copy-url": "نسخ الرابط",
+        "play-vlc": "VLC",
+        "download-vlc": "التحميل بـ VLC",
+        "share-url": "مشاركة",
+        "open-with": "تطبيقات اخرى",
+        "play-nplayer": "NPlayer",
+        "play-infuse": "Infuse",
+        "cast": "Cast",
+        "add-to-playlist": "أضف إلى قائمة التشغيل الخاصة بك"
+      }
+    }
+  }
+}
